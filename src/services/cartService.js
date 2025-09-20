@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_URL =
-  "http://ec2-54-163-41-115.compute-1.amazonaws.com:8081/api/cart";
+  "http://ec2-34-226-211-234.compute-1.amazonaws.com:8081/api/cart";
 
 const API_BASE =
   "http://ec2-13-218-137-79.compute-1.amazonaws.com:8081/api/cart";
